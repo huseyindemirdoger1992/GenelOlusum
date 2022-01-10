@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventIlemleri", "EventIlemleri\EventIlemleri.csproj", "{5D1FF121-8810-4FA6-8C72-605641DB8CB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KayitOrnek", "KayitOrnek\KayitOrnek.csproj", "{ADCEBFAB-18E0-481B-A688-8D8B54106F04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D1FF121-8810-4FA6-8C72-605641DB8CB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D1FF121-8810-4FA6-8C72-605641DB8CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D1FF121-8810-4FA6-8C72-605641DB8CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D1FF121-8810-4FA6-8C72-605641DB8CB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADCEBFAB-18E0-481B-A688-8D8B54106F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADCEBFAB-18E0-481B-A688-8D8B54106F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADCEBFAB-18E0-481B-A688-8D8B54106F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADCEBFAB-18E0-481B-A688-8D8B54106F04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20EED3B2-5602-4936-9A75-32A3034A71A7}
+	EndGlobalSection
+EndGlobal
